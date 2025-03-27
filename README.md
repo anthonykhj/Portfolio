@@ -7,10 +7,15 @@ Here, you'll find a collection of projects that showcase my experience in data a
 ## 📖 Table of Content
 - [Python](#python)
 - [SQL and Database Management](#sql-and-database-management)
-- [Data Visualisation](#data-visualisation)
+- [Business Intelligence Dashboard](#business-intelligence-dashboard)
 - [Machine Learning and Predictive Analytics](#machine-learning-and-predictive-analytics)
 
 # Python
+## Data Analytics and Visualisation
+| Project | Project Description | Libraries |
+| --- | --- | --- |
+
+## Command Prompt Applications
 | Project | Project Description | Libraries |
 | --- | --- | --- |
 
@@ -22,7 +27,7 @@ Here, you'll find a collection of projects that showcase my experience in data a
 
 ***
 
-# Data Visualisation
+# Business Intelligence Dashboard
 | Project | Project Description | Tools |
 | --- | --- | --- |
 
