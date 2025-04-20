@@ -14,15 +14,15 @@ Here, you'll find a collection of projects that showcase my experience in data a
 ## Data Analytics and Visualisation
 | Project | Project Description | Libraries |
 | --- | --- | --- |
-| [Impact of COVID-19 on HDB Resale Market](https://github.com/anthonykhj/Impact-of-COVID-19-on-HDB-Resale-Market) | Project Description | <ul><li>Pandas</li><li>Matplotlib</li><li>Seaborn</li></ul> |
+| [Impact of COVID-19 on HDB Resale Market](https://github.com/anthonykhj/Impact-of-COVID-19-on-HDB-Resale-Market) | This project analyses the relationship between Singapore's public housing market and COVID-19 by using datasets from the Housing Development Board (HDB) and Our World in Data using Python. | <ul><li>Pandas</li><li>Matplotlib</li><li>Seaborn</li></ul> |
 | [Rent vs. Resale Flats in Singapore](https://github.com/anthonykhj/Rent-vs-Resale-Flats-in-Singapore) | This project analyses Singapore's public housing market by comparing rental and resale flat trends using datasets from the Housing Development Board (HDB) using Python. | <ul><li>Pandas</li><li>NumPy</li><li>Matplotlib</li><li>Seaborn</li></ul> |
 | [Motor Vehicles in Singapore](https://github.com/anthonykhj/Motor-Vehicles-in-Singapore) | This project analyses Singapore's transport datasets from the Land Transport Authority (LTA) to extract actionable insights using Python. | <ul><li>Pandas</li><li>Matplotlib</li><li>Seaborn</li></ul> |
 
 ## Command Prompt Applications
 | Project | Project Description | Libraries |
 | --- | --- | --- |
-| [InvestiBuddy](https://github.com/anthonykhj/InvestiBuddy) | Project Description |  <ul><li>Pandas</li><li>Yahoo Finance</li><li>SQLite3</li></ul> |
-| [PropTech](https://github.com/anthonykhj/PropTech) | Project Description |  - | 
+| [InvestiBuddy](https://github.com/anthonykhj/InvestiBuddy) | _Project Description_ |  <ul><li>Pandas</li><li>Yahoo Finance</li><li>SQLite3</li></ul> |
+| [PropTech](https://github.com/anthonykhj/PropTech) | _Project Description_ |  - | 
 
 ***
 
@@ -49,9 +49,9 @@ Here, you'll find a collection of projects that showcase my experience in data a
 | Project | Project Description | Tools | Models |
 | --- | --- | --- | --- |
 | [Phish and Chips](https://github.com/anthonykhj/Phish-and-Chips) | This project analyses phishing website detection using predictive analytics (Random Forest, Neural Networks) on website and URL features to power a safety web extension for Singaporean users. | R and Python | <ul><li>Logistic Regression</li><li>Random Forest</li><li>Neural Network</li></ul>
-| [Sleep](https://github.com/anthonykhj/Sleep) | Project Description | R| <ul><li>Linear Regression</li><li>Random Forest</li><li>MARS</li></ul>
-| [Aramco](https://github.com/anthonykhj/Aramco) | Project Description | R| <ul><li>Linear Regression</li><li>CART</li></ul>
-| [Lost Circulation in Marun Oil Field](https://github.com/anthonykhj/Lost-Circulation-in-Marun-Oil-Field) | Project Description | R | <ul><li>Linear Regression</li><li>CART</li></ul>
-| [Titanic](https://github.com/anthonykhj/Titanic) | Project Description | SPSS | <ul><li>Decision Tree</li></ul>
-| [Movie Industry](https://github.com/anthonykhj/Movie-Industry) | Project Description | SPSS | <ul><li>Linear Regression</li><li>CHAID</li></ul>
-| [Income of Adults](https://github.com/anthonykhj/Income-of-Adults) | Project Description | SPSS | <ul><li>Logistic Regression</li><li>CHAID</li><li>Decision Tree</li></ul>
+| [Sleep](https://github.com/anthonykhj/Sleep) | _Project Description_ | R| <ul><li>Linear Regression</li><li>Random Forest</li><li>MARS</li></ul>
+| [Aramco](https://github.com/anthonykhj/Aramco) | _Project Description_ | R| <ul><li>Linear Regression</li><li>CART</li></ul>
+| [Lost Circulation in Marun Oil Field](https://github.com/anthonykhj/Lost-Circulation-in-Marun-Oil-Field) | _Project Description_ | R | <ul><li>Linear Regression</li><li>CART</li></ul>
+| [Titanic](https://github.com/anthonykhj/Titanic) | _Project Description_ | SPSS | <ul><li>Decision Tree</li></ul>
+| [Movie Industry](https://github.com/anthonykhj/Movie-Industry) | _Project Description_ | SPSS | <ul><li>Linear Regression</li><li>CHAID</li></ul>
+| [Income of Adults](https://github.com/anthonykhj/Income-of-Adults) | _Project Description_ | SPSS | <ul><li>Logistic Regression</li><li>CHAID</li><li>Decision Tree</li></ul>
