@@ -21,8 +21,8 @@ Here, you'll find a collection of projects that showcase my experience in data a
 ## Command Prompt Applications
 | Project | Project Description | Libraries |
 | --- | --- | --- |
-| [InvestiBuddy](https://github.com/anthonykhj/InvestiBuddy) | _Project Description_ |  <ul><li>Pandas</li><li>Yahoo Finance</li><li>SQLite3</li></ul> |
-| [PropTech](https://github.com/anthonykhj/PropTech) | _Project Description_ |  - | 
+| [InvestiBuddy](https://github.com/anthonykhj/InvestiBuddy) | This project presents a Python-based portfolio management prototype featuring data connectivity, object-oriented design, and integration with SQLite to help individuals and institutions monitor, manage, and optimise investment portfolios dynamically. |  <ul><li>Pandas</li><li>Yahoo Finance</li><li>SQLite3</li></ul> |
+| [PropTech](https://github.com/anthonykhj/PropTech) | This project develops a Python-based property search prototype enabling users, such as home buyers or agents, to input personal preferences (e.g., property type, budget, location, size, amenities) and receive ranked listings that match their criteria. The program incorporates file handling, input validation, and summary reporting to help users navigate and evaluate properties efficiently. | - | 
 
 ***
 
